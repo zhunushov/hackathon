@@ -1,0 +1,39 @@
+.nav1{
+
+    background-color: rgb(10, 67, 87);
+
+
+}
+.btn-violet {
+background-color: #6712ff;
+color: #fffb12;
+}
+
+.btn-violet:hover {
+color: #fffb12;
+background-color: #ebb064;
+}
+.movie-img{
+height: 280px;
+object-fit: cover;
+background-size: cover;
+margin-top: 10px;
+}
+ #icon{
+
+    border-radius: 4px;
+}
+#bt{
+    background-color: #ebe7f0;
+}
+.wrapper{
+    background-image: url(https://kartinkin.net/uploads/posts/2021-01/1611016059_5-p-studencheskii-fon-22.jpg);
+    background-size: cover;
+    
+  
+}
+.div{
+    position: relative;
+    left: 41%;
+    bottom: 0px;  
+}
